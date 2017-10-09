@@ -81,15 +81,13 @@
 }
 
 .receptions {
-    /*position:relative;*/
+    
     background-image: url(../images/3b-348x348.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     min-height:348px;
-    /*text-align :center;
-    vertical-align:middle;
-    color:white;*/
+    
 }
 
 h2 span{
